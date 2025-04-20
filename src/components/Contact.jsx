@@ -21,9 +21,9 @@ const Contact = () => {
 
     // code fragment
     var correo = {
-      service_id: "service_mawfuqr",
-      template_id: "template_f6xhxyb",
-      user_id: "G0CyPqLdJvZ0YT-m6",
+      service_id: "mmmmmm",
+      template_id: "mmmmmmmm",
+      user_id: "mmmm",
       template_params: {
         'user_name': data.user_name,
         'user_email': data.user_email,
@@ -33,7 +33,7 @@ const Contact = () => {
       }
     };
 
-    fetch("https://api.emailjs.com/api/v1.0/email/send", {
+    fetch("mmmmmm", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
