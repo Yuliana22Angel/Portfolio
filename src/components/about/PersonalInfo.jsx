@@ -27,7 +27,7 @@ const PersonalInfo = () => {
               className="main"
               style={{
                 backgroundImage: `url(${
-                  process.env.PUBLIC_URL + "img/about/1.webp"
+                  process.env.PUBLIC_URL + "/img/about/1.webp"
                 })`,
               }}
             ></div>

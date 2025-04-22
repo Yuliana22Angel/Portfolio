@@ -2,6 +2,7 @@
   "name": "iknow",
   "version": "1.1.2",
   "private": true,
+  "homepage": "https://Yuliana22Angel.github.io/Portfolio",
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
     "@formspree/react": "^2.5.1",
@@ -36,6 +37,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -58,5 +61,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }

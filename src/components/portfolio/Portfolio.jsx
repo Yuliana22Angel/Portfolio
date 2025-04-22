@@ -360,7 +360,7 @@ function toggleModalSixtyNine() {
 
   
   
-  // Código de Nelson Rondon :)
+  // Código de Yuliana :)
   
   return (
     <div className="know_tm_main_section">
@@ -465,7 +465,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalSixtyFive}>
-                     <img src="/img/portfolio/65.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/65.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>

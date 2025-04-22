@@ -26,7 +26,7 @@ export default function Testimonial() {
 
   const testimonialContent = [
     {
-      desc: `"I'm very happy with my WordPress website developed by Engineer Nelson Rondon. It's modern, functional, and visually appealing. Additionally, communication with him was excellent, and he made sure to meet all my requirements. Thanks, Nelson!"`,
+      desc: `"I'm very happy with my WordPress website developed by Engineer Yuliana Infante. It's modern, functional, and visually appealing. Additionally, communication with him was excellent, and he made sure to meet all my requirements. Thanks, Nelson!"`,
       avatar: "1",
       name: "Grupocredit",
       designation: "Business",
@@ -43,7 +43,7 @@ export default function Testimonial() {
 
 
     {
-      desc: `Engineer Nelson  developed my virtual store with great professionalism and dedication. He understood my requirements and goals perfectly, and created an attractive, easy-to-use, and functional virtual store. I'm very satisfied with the final result and would definitely recommend him to anyone looking for a high-quality virtual store`,
+      desc: `Engineer developed my virtual store with great professionalism and dedication. He understood my requirements and goals perfectly, and created an attractive, easy-to-use, and functional virtual store. I'm very satisfied with the final result and would definitely recommend him to anyone looking for a high-quality virtual store`,
       avatar: "3",
       name: "Libroventa",
       designation: "Business",
@@ -51,7 +51,7 @@ export default function Testimonial() {
     },
 
     {
-      desc: `Engineer Nelson Rondon is a WordPress expert. His creativity and ability to understand what I wanted for my website was impressive. The result was a website that fit my needs perfectly. I'm very grateful to him and would definitely recommend him to anyone needing a quality WordPress website`,
+      desc: `Engineer Yuliana Infante is a WordPress expert. His creativity and ability to understand what I wanted for my website was impressive. The result was a website that fit my needs perfectly. I'm very grateful to him and would definitely recommend him to anyone needing a quality WordPress website`,
       avatar: "2",
       name: "EADIC",
       designation: "Business",
