@@ -2375,7 +2375,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalThree}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
