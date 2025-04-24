@@ -480,7 +480,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalSixtyFour}>
-                     <img src="/img/portfolio/64.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/64.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -495,7 +495,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalSixtyThree}>
-                     <img src="/img/portfolio/63.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/63.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -510,7 +510,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalSixtyTwo}>
-                     <img src="/img/portfolio/62.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/62.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -525,7 +525,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalSixtyOne}>
-                     <img src="/img/portfolio/61.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/61.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -540,7 +540,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalSixty}>
-                     <img src="/img/portfolio/60.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/60.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -555,7 +555,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftyEight}>
-                     <img src="/img/portfolio/58.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/58.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -570,7 +570,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftySeven}>
-                     <img src="/img/portfolio/57.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/57.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -585,7 +585,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftySix}>
-                     <img src="/img/portfolio/56.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/56.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -600,7 +600,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftyFive}>
-                     <img src="/img/portfolio/55.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/55.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -615,7 +615,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftyFour}>
-                     <img src="/img/portfolio/54.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/54.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -630,7 +630,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftyThree}>
-                     <img src="/img/portfolio/53.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/53.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -645,7 +645,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftyTwo}>
-                     <img src="/img/portfolio/52.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/52.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -660,7 +660,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFifty}>
-                     <img src="/img/portfolio/50.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/50.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -675,7 +675,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyNine}>
-                     <img src="/img/portfolio/49.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/49.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -690,7 +690,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyEight}>
-                     <img src="/img/portfolio/48.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/48.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -705,7 +705,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortySeven}>
-                     <img src="/img/portfolio/47.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/47.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -720,7 +720,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortySix}>
-                     <img src="/img/portfolio/46.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/46.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -736,7 +736,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyFive}>
-                     <img src="/img/portfolio/45.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/45.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -751,7 +751,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyFour}>
-                     <img src="/img/portfolio/44.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/44.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -766,7 +766,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyThree}>
-                     <img src="/img/portfolio/43.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/43.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -782,7 +782,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyTwo}>
-                     <img src="/img/portfolio/42.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/42.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -797,7 +797,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyOne}>
-                     <img src="/img/portfolio/41.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/41.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -812,7 +812,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalForty}>
-                     <img src="/img/portfolio/40.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/40.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -827,7 +827,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalThirtyEight}>
-                     <img src="/img/portfolio/38.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/38.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -842,7 +842,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalThirtySeven}>
-                     <img src="/img/portfolio/37.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/37.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -858,7 +858,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalThree}>
-                        <img src="/img/portfolio/1.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/1.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -874,7 +874,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalFive}>
-                        <img src="/img/portfolio/2.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/2.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -888,7 +888,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalSix}>
-                        <img src="/img/portfolio/3.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/3.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -902,7 +902,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalSeven}>
-                        <img src="/img/portfolio/4.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/4.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -916,7 +916,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalEight}>
-                        <img src="/img/portfolio/5.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/5.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -930,7 +930,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalNine}>
-                        <img src="/img/portfolio/6.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/6.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -945,7 +945,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalTen}>
-                        <img src="/img/portfolio/7.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/7.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -960,7 +960,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalEleven}>
-                        <img src="/img/portfolio/8.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/8.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -975,7 +975,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalTwelve}>
-                        <img src="/img/portfolio/9.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/9.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -989,7 +989,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalThirteen}>
-                        <img src="/img/portfolio/10.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/10.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1003,7 +1003,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalFourteen}>
-                        <img src="/img/portfolio/11.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/11.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1017,7 +1017,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalFifteen}>
-                        <img src="/img/portfolio/12.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/12.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1032,7 +1032,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalSixteen}>
-                        <img src="/img/portfolio/13.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/13.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1046,7 +1046,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalSeventeen}>
-                        <img src="/img/portfolio/14.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/14.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1060,7 +1060,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalEighteen}>
-                        <img src="/img/portfolio/15.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/15.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1074,7 +1074,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalNineteen}>
-                        <img src="/img/portfolio/16.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/16.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1089,7 +1089,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalTwenty}>
-                      <img src="/img/portfolio/17.png" alt="Details" />
+                      <img src={process.env.PUBLIC_URL + "/img/portfolio/17.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1102,7 +1102,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalTwentyOne}>
-                      <img src="/img/portfolio/18.png" alt="Details" />
+                      <img src={process.env.PUBLIC_URL + "/img/portfolio/18.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1269,7 +1269,7 @@ function toggleModalSixtyNine() {
               <li data-aos="fade-right" data-aos-delay="100">
               <div className="list_inner">
                 <div className="image" onClick={toggleModalThirtyOne}>
-                  <img src="/img/portfolio/28.png" alt="Details" />
+                  <img src={process.env.PUBLIC_URL + "/img/portfolio/28.png"} alt="Details" />
                 </div>
                 <div className="overlay"></div>
                   <span className="icon-text svg"></span>
@@ -1349,7 +1349,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalSixtyFive}>
-                     <img src="/img/portfolio/65.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/65.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1364,7 +1364,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalSixtyFour}>
-                     <img src="/img/portfolio/64.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/64.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1379,7 +1379,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalSixtyThree}>
-                     <img src="/img/portfolio/63.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/63.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1394,7 +1394,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalSixtyTwo}>
-                     <img src="/img/portfolio/62.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/62.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1409,7 +1409,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalSixtyOne}>
-                     <img src="/img/portfolio/61.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/61.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1424,7 +1424,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalSixty}>
-                     <img src="/img/portfolio/60.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/60.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1439,7 +1439,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftyEight}>
-                     <img src="/img/portfolio/58.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/58.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1454,7 +1454,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftySeven}>
-                     <img src="/img/portfolio/57.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/57.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1469,7 +1469,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftySix}>
-                     <img src="/img/portfolio/56.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/56.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1484,7 +1484,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftyFive}>
-                     <img src="/img/portfolio/55.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/55.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1499,7 +1499,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftyFour}>
-                     <img src="/img/portfolio/54.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/54.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1514,7 +1514,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftyThree}>
-                     <img src="/img/portfolio/53.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/53.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1529,7 +1529,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFiftyTwo}>
-                     <img src="/img/portfolio/52.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/52.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1544,7 +1544,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFifty}>
-                     <img src="/img/portfolio/50.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/50.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1559,7 +1559,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyNine}>
-                     <img src="/img/portfolio/49.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/49.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1574,7 +1574,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyEight}>
-                     <img src="/img/portfolio/48.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/48.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1589,7 +1589,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortySeven}>
-                     <img src="/img/portfolio/47.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/47.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1604,7 +1604,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortySix}>
-                     <img src="/img/portfolio/46.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/46.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1619,7 +1619,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyFive}>
-                     <img src="/img/portfolio/45.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/45.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1634,7 +1634,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyFour}>
-                     <img src="/img/portfolio/44.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/44.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1649,7 +1649,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyThree}>
-                     <img src="/img/portfolio/43.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/43.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1664,7 +1664,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyTwo}>
-                     <img src="/img/portfolio/42.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/42.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1679,7 +1679,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalFortyOne}>
-                     <img src="/img/portfolio/41.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/41.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1694,7 +1694,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalForty}>
-                     <img src="/img/portfolio/40.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/40.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1709,7 +1709,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalThirtyEight}>
-                     <img src="/img/portfolio/38.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/38.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1724,7 +1724,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalThirtySeven}>
-                     <img src="/img/portfolio/37.png" alt="Details" />
+                     <img src={process.env.PUBLIC_URL + "/img/portfolio/37.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1739,7 +1739,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalThree}>
-                        <img src="/img/portfolio/1.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/1.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1755,7 +1755,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalFive}>
-                        <img src="/img/portfolio/2.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/2.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1769,7 +1769,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalSix}>
-                        <img src="/img/portfolio/3.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/3.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1783,7 +1783,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalSeven}>
-                        <img src="/img/portfolio/4.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/4.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1797,7 +1797,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalEight}>
-                        <img src="/img/portfolio/5.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/5.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1811,7 +1811,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalNine}>
-                        <img src="/img/portfolio/6.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/6.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1826,7 +1826,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalTen}>
-                        <img src="/img/portfolio/7.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/7.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1841,7 +1841,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalEleven}>
-                        <img src="/img/portfolio/8.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/8.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1856,7 +1856,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalTwelve}>
-                        <img src="/img/portfolio/9.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/9.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1870,7 +1870,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalThirteen}>
-                        <img src="/img/portfolio/10.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/10.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1884,7 +1884,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalFourteen}>
-                        <img src="/img/portfolio/11.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/11.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1898,7 +1898,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalFifteen}>
-                        <img src="/img/portfolio/12.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/12.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1913,7 +1913,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalSixteen}>
-                        <img src="/img/portfolio/13.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/13.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1927,7 +1927,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalSeventeen}>
-                        <img src="/img/portfolio/14.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/14.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1941,7 +1941,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalEighteen}>
-                        <img src="/img/portfolio/15.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/15.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1955,7 +1955,7 @@ function toggleModalSixtyNine() {
                   <li data-aos="fade-right" data-aos-delay="100">
                     <div className="list_inner">
                       <div className="image" onClick={toggleModalNineteen}>
-                        <img src="/img/portfolio/16.png" alt="Details" />
+                        <img src={process.env.PUBLIC_URL + "/img/portfolio/16.png"} alt="Details" />
                       </div>
                       <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -1970,7 +1970,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalTwenty}>
-                      <img src="/img/portfolio/17.png" alt="Details" />
+                      <img src={process.env.PUBLIC_URL + "/img/portfolio/17.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -1983,7 +1983,7 @@ function toggleModalSixtyNine() {
                 <li data-aos="fade-right" data-aos-delay="100">
                   <div className="list_inner">
                     <div className="image" onClick={toggleModalTwentyOne}>
-                      <img src="/img/portfolio/18.png" alt="Details" />
+                      <img src={process.env.PUBLIC_URL + "/img/portfolio/18.png"} alt="Details" />
                     </div>
                     <div className="overlay"></div>
                     <span className="icon-text svg"></span>
@@ -2152,7 +2152,7 @@ function toggleModalSixtyNine() {
               <li data-aos="fade-right" data-aos-delay="100">
                 <div className="list_inner">
                   <div className="image" onClick={toggleModalThirtyOne}>
-                    <img src="/img/portfolio/28.png" alt="Details" />
+                    <img src={process.env.PUBLIC_URL + "/img/portfolio/28.png"} alt="Details" />
                   </div>
                   <div className="overlay"></div>
                       <span className="icon-text svg"></span>
@@ -2522,7 +2522,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFive}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -2668,7 +2668,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalSix}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -2815,7 +2815,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalSeven}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -2961,7 +2961,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalEight}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -3108,7 +3108,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalNine}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -3255,7 +3255,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalTen}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -3402,7 +3402,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalEleven}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -3548,7 +3548,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalTwelve}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -3695,7 +3695,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalThirteen}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -3841,7 +3841,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalFourteen}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -3987,7 +3987,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalFifteen}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -4134,7 +4134,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalSixteen}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -4286,7 +4286,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalSixteen}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -4438,7 +4438,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalEighteen}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -4589,7 +4589,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalNineteen}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -4740,7 +4740,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalTwenty}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -4892,7 +4892,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalTwentyOne}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -5045,7 +5045,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalTwentyTwo}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -5216,7 +5216,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalTwentyThree}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -5387,7 +5387,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalTwentyFour}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -5557,7 +5557,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalTwentyFive}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -6575,7 +6575,7 @@ function toggleModalSixtyNine() {
         {/* END MODAL FOR Website-EADIC.com */}
 
 
-        {/* START MODAL FOR Portal-Admisiones */}
+        {/* START MODAL FOR Attendance-Control */}
         <Modal
           isOpen={isOpen31}
           onRequestClose={toggleModalThirtyOne}
@@ -6586,7 +6586,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalThirtyOne}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -6744,7 +6744,7 @@ function toggleModalSixtyNine() {
         >
           <div className="know_tm_modalbox">
             <button className="close-modal" onClick={toggleModalThirtyThree}>
-              <img src="/img/svg/cancel.svg" alt="close icon" />
+              <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
             </button>
             {/* END CLOSE ICON */}
             <div className="box_inner">
@@ -7545,7 +7545,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalThirtySeven}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -7693,7 +7693,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalThirtyEight}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -7841,7 +7841,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalForty}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -7989,7 +7989,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFortyOne}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -8137,7 +8137,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFortyTwo}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -8285,7 +8285,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFortyThree}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -8433,7 +8433,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFortyFour}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -8581,7 +8581,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFortyFive}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -8729,7 +8729,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFortySix}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -8877,7 +8877,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFortySeven}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -9025,7 +9025,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFortyEight}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -9173,7 +9173,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFortyNine}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -9321,7 +9321,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFifty}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -9469,7 +9469,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFiftyTwo}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -9617,7 +9617,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFiftyThree}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -9765,7 +9765,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFiftyFour}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -9913,7 +9913,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFiftyFive}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -10061,7 +10061,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFiftySix}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -10209,7 +10209,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFiftySeven}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -10357,7 +10357,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFiftyEight}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -10505,7 +10505,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalSixty}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -10653,7 +10653,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalSixtyOne}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -10801,7 +10801,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalSixtyTwo}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -10949,7 +10949,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalSixtyThree}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -11097,7 +11097,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalSixtyFour}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -11245,7 +11245,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalSixtyFive}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -11393,7 +11393,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalSixtySix}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
@@ -12298,7 +12298,7 @@ function toggleModalSixtyNine() {
       >
         <div className="know_tm_modalbox">
           <button className="close-modal" onClick={toggleModalFour}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src={process.env.PUBLIC_URL + "/img/svg/cancel.svg"} alt="close icon" />
           </button>
           {/* END CLOSE ICON */}
           <div className="box_inner">
