@@ -3,7 +3,7 @@ import React from "react";
 const socialShare = [
   {
     img: "whatsapp",
-    link: "https://wa.me/584125838229",
+    link: "https://api.whatsapp.com/send?phone=584125838229",
   },
   {
     img: "github",
