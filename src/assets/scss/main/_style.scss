@@ -480,10 +480,14 @@ body.dark .loader_line:after {
   width: 100%;
   top: 0px;
   left: 0px;
-  height: calc(93vh + 0px);
+  height: calc(98vh + 0px);
   background-color: #f1faff;
+  z-index: -1;
   // clip-path: polygon(100% 0%, 81% 86%, 0% 100%, 0% 0%); polígono 
 }
+
+
+
 .know_tm_hero .background_shape.opened {
   height: calc(100vh + 65px);
 }
