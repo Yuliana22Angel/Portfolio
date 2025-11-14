@@ -475,6 +475,7 @@ body.dark .loader_line:after {
   float: left;
   position: relative;
 }
+/*
 .know_tm_hero .background_shape {
   position: absolute;
   width: 100%;
@@ -485,7 +486,7 @@ body.dark .loader_line:after {
   z-index: -1;
   // clip-path: polygon(100% 0%, 81% 86%, 0% 100%, 0% 0%); polígono 
 }
-
+*/
 
 
 .know_tm_hero .background_shape.opened {
@@ -2891,7 +2892,6 @@ input[type="number"] {
 .know_tm_hero_second .container {
   z-index: 2;
 }
-/*
 .know_tm_hero_second .background_shape {
   position: absolute;
   top: 0px;
@@ -2901,7 +2901,6 @@ input[type="number"] {
   background-color: #fff6f1;
   clip-path: polygon(100% 0%, 0% 0%, 0% 100%, 100% 62%);
 }
-*/
 .know_tm_hero_second .main_info {
   width: 100%;
   clear: both;
